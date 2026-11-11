@@ -179,14 +179,14 @@ V, iterations = policy_evaluation(
     theta
 )
 
-print("Name: Syed Abbu Rehan")
-print("Register Number: 212223240165")
+print("Name: G.Lahari sindhu")
+print("Register Number: 212223240038")
 print("Number of iterations:", iterations)
 print("\nState-Value Function:")
 print(V)
 
-print("Name: Syed Abbu Rehan")
-print("Register Number: 212223240165")
+print("Name: G.Lahari sindhu ")
+print("Register Number: 212223240038")
 print("\nState-Value Function as 4x4 Grid:")
 print(np.round(V.reshape(4, 4), 4))
 
